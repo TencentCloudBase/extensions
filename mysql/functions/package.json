@@ -1,0 +1,17 @@
+{
+    "name": "mysql_demo",
+    "version": "1.0.0",
+    "description": "本扩展是为了解决云开发用户业务中对MySQL的诉求，搭配腾讯云数据库和云开发云函数满足开发者的业务需求，并提供相关示例代码。",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "serverless-mysql": "^1.5.4"
+    }
+}
